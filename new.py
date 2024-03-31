@@ -18,7 +18,7 @@ def main():
     length = 20
     random_list = generate_random_list(length)
 
-    print("Unsorted List:")
+    print("Venkatesh Kumar")
     print_list(random_list)
 
     bubble_sort(random_list)
